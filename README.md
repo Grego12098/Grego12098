@@ -32,5 +32,5 @@ See the README.md of each project for more details about the specifics of the pr
 |  Mighty Mini Minds | [Github](https://github.com/dlrodev92/migthy_mini_minds) | [Demo](https://wonderful-paletas-0c1299.netlify.app/)         | React, Tailwind, Express, Sequelize, Various Testing Libraries |
 | CODECARDS | [Github](https://github.com/Grego12098/bc14_w7_project-frontend-sorcerers-of-code-Johnny) | [Demo](codecards-jg.netlify.app) | React, React Router, CSS, Various Testing Libraries |
 
-/* [![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grego12098)](https://github.com/Grego12098/github-readme-stats) */
+
 

@@ -30,7 +30,7 @@ See the README.md of each project for more details about the specifics of the pr
 |               Project |                                                            |                                                          | Key Tech                 |
 | --------------------: | ---------------------------------------------------------- | -------------------------------------------------------- | -------------------- |
 |  Mighty Mini Minds | [Github](https://github.com/dlrodev92/migthy_mini_minds) | [Demo](https://wonderful-paletas-0c1299.netlify.app/)         | React, Tailwind, Express, Sequelize, Various Testing Libraries |
-| CODECARDS | [Github](https://github.com/Grego12098/bc14_w7_project-frontend-sorcerers-of-code-Johnny) | [Demo](codecards-jg.netlify.app) | React, React Router, CSS, Various Testing Libraries |
+| CODECARDS | [Github](https://github.com/Grego12098/bc14_w7_project-frontend-sorcerers-of-code-Johnny) | [Demo](https://codecards-jg.netlify.app) | React, React Router, CSS, Various Testing Libraries |
 
 
 

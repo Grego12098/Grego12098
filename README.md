@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Grego12098/Grego12098** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![Jonathan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Grego12098)](https://github.com/Grego12098/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

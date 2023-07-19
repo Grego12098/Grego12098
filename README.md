@@ -34,7 +34,7 @@ See the README.md of each project for more details about the specifics of the pr
 
 
 <h1>Languages and Frameworks</h1>
-<div style="display:flex; flex-direction:flex-row;" 
+<div style="display:flex; flex-direction:flex-row; justify-content: space-between;" 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" />

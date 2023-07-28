@@ -4,7 +4,7 @@
 
 <div style='display:flex; justify-content:center' align="center">
 <p>
-I'm an aspiring developer trained in Full Stack Development at the School of Code. After graduating in Mathematics and Philosophy, honing my problem solving and critical thinking skills, I spent time as a self employed trader, taking advantage of global quantitive easing during COVID-19. I began my developer journey by building a bot in Python to track new trending NFT collections and send myself alerts via desktop push notifications. I loved the challenge of solving a problem I had with code, and proceeded to learn core Javascript principles before applying and enrolling onto the bootcamp. 
+I'm an aspiring developer trained in Full Stack Development at the School of Code. After graduating in Mathematics and Philosophy, honing my problem solving and critical thinking skills, I spent time as a self employed trader, taking advantage of global quantitive easing during COVID-19. I began my developer journey by building a bot in Python to track new trending NFT collections and send myself alerts via desktop push notifications. I loved the challenge of solving a problem I had with code, and proceeded to learn core Javascript principles before applying for and enrolling onto the bootcamp. 
 </p>
 <p>
 I've since been dedicated to sharpening my skills as a software developer, as well as my interpersonal skills such as effective communication and teamwork. I'm currently working on migrating our final team project Mighty Mini Minds to Supabase to imporve the security of our authentication, as well as encrypting all our user's data and reworking our unit tests for the updated codebase. 
